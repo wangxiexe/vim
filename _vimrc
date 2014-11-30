@@ -22,6 +22,9 @@ let g:ctrlp_by_filename = 1
 
 "enable mouse copy
 set guioptions+=a
+"remove the menu bar
+set guioptions-=m  "remove menu bar
+set guioptions-=T  "remove toolbar
 
 "backspace deleting
 set backspace=indent,eol,start
