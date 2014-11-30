@@ -12,9 +12,9 @@
 colorscheme desert
 
 "execute pathogen#infect()
-Helptags
+"Helptags
 
-" autocmd vimenter * NERDTree
+"autocmd vimenter * NERDTree
 
 let g:ctrlp_max_files = 0
 let g:ctrlp_max_depth = 140
