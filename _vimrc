@@ -11,7 +11,7 @@
 
 colorscheme desert
 
-execute pathogen#infect()
+"execute pathogen#infect()
 Helptags
 
 " autocmd vimenter * NERDTree
